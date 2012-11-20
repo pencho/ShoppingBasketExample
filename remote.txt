@@ -1,0 +1,2 @@
+origin	git@github.com:pencho/ShoppingBasketExample (fetch)
+origin	git@github.com:pencho/ShoppingBasketExample (push)
