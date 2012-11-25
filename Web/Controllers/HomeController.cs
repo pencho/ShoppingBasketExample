@@ -14,7 +14,7 @@ namespace Web.Controllers
         public ActionResult Index()
         {
 			//this is a change on new
-            return View();
+            return View("new");
             //conflict!
         }
 
