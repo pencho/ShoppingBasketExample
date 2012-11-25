@@ -13,8 +13,9 @@ namespace Web.Controllers
 
         public ActionResult Index()
         {
-            return View("other");
-			//this is a change on new
+            // return View("other"); resolved!
+        		//this is a change on new
+        return View("new"); // change on other was overwritten
             //conflict!
         }
 
